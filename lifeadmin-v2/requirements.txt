@@ -1,0 +1,6 @@
+requests>=2.31
+supabase>=2.9
+python-dateutil>=2.9
+python-dotenv>=1.0
+streamlit>=1.40
+pandas>=2.0
